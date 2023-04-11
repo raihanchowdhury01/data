@@ -1,35 +1,42 @@
 [
     {
-        "id": 1,
-        "logo": "../src/components/image/google-1088003_960_720.png",
-        "title": "Technical Database Engineer",
-        "companyAuthor": "Google LLC",
-        "location": "Dhaka, Bangladesh",
-        "salary": "Salary: 100k - 150k"
+      "id": 1,
+      "logo": "",
+      "title": "Technical Database Engineer",
+      "companyAuthor": "Google LLC",
+      "location": "Dhaka, Bangladesh",
+      "salary": "Salary: 100k - 150k",
+      "remote": "Remote Job",
+      "fullTime": "Full-Time"
     },
     {
-        "id": 2,
-        "logo": "../src/components/image/microsoft.png",
-        "title": "Software Engineer",
-        "companyAuthor": "Tosla",
-        "location": "Rajshahi, Bangladesh",
-        "salary": "Salary : 100k - 120k"
+      "id": 2,
+      "logo": "",
+      "title": "Software Engineer",
+      "companyAuthor": "Tosla",
+      "location": "Rajshahi, Bangladesh",
+      "salary": "Salary : 100k - 120k",
+      "fullTime": "Full-Time",
+      "partTime": "Part-Time"
     },
     {
-        "id": 3,
-        "logo": "../src/components/image/youtube-2712573_960_720.jpg",
-        "title": "Senior Developer",
-        "companyAuthor": "YouTube",
-        "location": "Chitagong, Bangladesh",
-        "salary": "300k - 400k"
-
+      "id": 3,
+      "logo": "",
+      "title": "Senior Developer",
+      "companyAuthor": "YouTube",
+      "location": "Chitagong, Bangladesh",
+      "salary": "300k - 400k",
+      "remote": "Remote Job",
+      "hourly": "Hourly Job"
     },
     {
-        "id": 4,
-        "logo": "../src/components/image/facebook-76536_960_720.jpg",
-        "title": "Technical Database Engineer",
-        "companyAuthor": "Meta",
-        "location": "Borishal, Bangladesh",
-        "salary": "Salary: 150k - 200k"
+      "id": 4,
+      "logo": "",
+      "title": "Technical Database Engineer",
+      "companyAuthor": "Meta",
+      "location": "Borishal, Bangladesh",
+      "salary": "Salary: 150k - 200k",
+      "partTime": "Part-Time",
+      "hourly": "Hourly"
     }
-]
+  ]
