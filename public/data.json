@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "logo": "",
+      "logo": "../src/components/image/google-1088003_960_720.png",
       "title": "Technical Database Engineer",
       "companyAuthor": "Google LLC",
       "location": "Dhaka, Bangladesh",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "logo": "",
+      "logo": "../src/components/image/microsoft.png",
       "title": "Software Engineer",
       "companyAuthor": "Tosla",
       "location": "Rajshahi, Bangladesh",
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "logo": "",
+      "logo": "../src/components/image/youtube-2712573_960_720.jpg",
       "title": "Senior Developer",
       "companyAuthor": "YouTube",
       "location": "Chitagong, Bangladesh",
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "logo": "",
+      "logo": "../src/components/image/facebook-76536_960_720.jpg",
       "title": "Technical Database Engineer",
       "companyAuthor": "Meta",
       "location": "Borishal, Bangladesh",
