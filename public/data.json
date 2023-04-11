@@ -6,8 +6,8 @@
       "companyAuthor": "Google LLC",
       "location": "Dhaka, Bangladesh",
       "salary": "Salary: 100k - 150k",
-      "remote": "Remote Job",
-      "fullTime": "Full-Time"
+      "jobType1": "Remote Job",
+      "jobType2": "Full-Time"
     },
     {
       "id": 2,
@@ -16,8 +16,8 @@
       "companyAuthor": "Tosla",
       "location": "Rajshahi, Bangladesh",
       "salary": "Salary : 100k - 120k",
-      "fullTime": "Full-Time",
-      "partTime": "Part-Time"
+      "jobType1": "Full-Time",
+      "jobType2": "Part-Time"
     },
     {
       "id": 3,
@@ -26,8 +26,8 @@
       "companyAuthor": "YouTube",
       "location": "Chitagong, Bangladesh",
       "salary": "300k - 400k",
-      "remote": "Remote Job",
-      "hourly": "Hourly Job"
+      "jobType1": "Remote Job",
+      "jobType2": "Hourly Job"
     },
     {
       "id": 4,
@@ -36,7 +36,7 @@
       "companyAuthor": "Meta",
       "location": "Borishal, Bangladesh",
       "salary": "Salary: 150k - 200k",
-      "partTime": "Part-Time",
-      "hourly": "Hourly"
+      "jobType1": "Part-Time",
+      "jobType2": "Hourly"
     }
   ]
